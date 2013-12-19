@@ -1,0 +1,8 @@
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB.Tests\bin\Debug\MemberShipDB.Tests.dll.config
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB.Tests\bin\Debug\MemberShipDB.Tests.dll
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB.Tests\bin\Debug\MemberShipDB.Tests.pdb
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB.Tests\bin\Debug\MemberShipDB.dll
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB.Tests\bin\Debug\MemberShipDB.pdb
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB.Tests\obj\Debug\MemberShipDB.Tests.csprojResolveAssemblyReference.cache
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB.Tests\obj\Debug\MemberShipDB.Tests.dll
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB.Tests\obj\Debug\MemberShipDB.Tests.pdb

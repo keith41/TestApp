@@ -1,0 +1,4 @@
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB\bin\MemberShipDB.dll
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB\bin\MemberShipDB.pdb
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB\obj\Debug\MemberShipDB.dll
+c:\users\ksalomon\documents\visual studio 2010\Projects\MemberShipDB\MemberShipDB\obj\Debug\MemberShipDB.pdb
